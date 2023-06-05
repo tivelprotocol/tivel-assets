@@ -1,0 +1,54 @@
+{
+  "11155111": [
+    {
+      "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
+      "token": "0xc023d784E25434DEBca43fa06AEB63d930c2a37F",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "token": "0x8a1D04710aDaA148776624067971e884CEde59c7",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "token": "0xBd32971188542B9cD92bd15f40e383e9C34412cC",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
+    }
+  ],
+  "42161": [
+    {
+      "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
+      "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "token": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "token": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
+    }
+  ]
+}
