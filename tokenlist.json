@@ -59,6 +59,12 @@
   ],
   "42161": [
     {
+      "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
         "token": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF",
         "name": "1inch",
         "symbol": "1INCH",
